@@ -1,0 +1,6 @@
+0, read buildtrig.mov;
+1, read conveytrig1.mov;
+2, read davidtrig.mov;
+3, read firetrig.mov;
+4, read missiletrig.mov;
+5, read pyramidtrig.mov;

@@ -1,0 +1,6 @@
+0, read buildloop.mov;
+1, read conveyloop.mov;
+2, read davidloop.mov;
+3, read fireloop.mov;
+4, read missileloop.mov;
+5, read pyramidloop.mov;
